@@ -3,7 +3,7 @@
 
 ###### 使用方法:
 1. 下载
-2. npm install crawler
+2. npm install
 3. node spider.js
 备注:数据会被打印在控制台里
 
